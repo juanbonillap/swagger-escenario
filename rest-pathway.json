@@ -8,9 +8,9 @@
       "description": "Course REST Fundamentals"
     },
     {
-      "title": "swagger-scenario",
-      "pathway_id": "swagger-scenario",
-      "course_id": "swagger-scenario"
+      "title": "swagger-escenario",
+      "pathway_id": "swagger-escenario",
+      "course_id": "swagger-escenario"
     }
   ]
 }
